@@ -1,6 +1,6 @@
 # Privacy Policy for Savy
 
-**Last updated:** 18 may 2026
+**Last updated:** 11 june 2026
 
 This Privacy Policy explains how AbouSoft ("we", "us", or "our")
 collects, uses, and protects your information when you use the Savy mobile
