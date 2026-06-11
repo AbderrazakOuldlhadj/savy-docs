@@ -1,9 +1,9 @@
 # Terms of Service for Savy
 
-**Last updated:** 18 May 2026
+**Last updated:** 11 June 2026
 
 These Terms of Service ("Terms") govern your use of the Savy mobile
-application ("Savy", "the App") provided by ABagency ("we", "us",
+application ("Savy", "the App") provided by AbouSoft ("we", "us",
 "our"). By creating an account or using Savy, you agree to these Terms. If you
 do not agree, do not use the App.
 
@@ -87,4 +87,4 @@ changes take effect constitutes acceptance of the updated Terms.
 
 ## 12. Contact
 
-For questions about these Terms, contact us at: abderk3@gmail.com
+For questions about these Terms, contact us at: abousoft.dev@gmail.com
