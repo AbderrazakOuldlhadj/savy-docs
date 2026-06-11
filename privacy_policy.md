@@ -2,7 +2,7 @@
 
 **Last updated:** 18 may 2026
 
-This Privacy Policy explains how ABagency ("we", "us", or "our")
+This Privacy Policy explains how AbouSoft ("we", "us", or "our")
 collects, uses, and protects your information when you use the Savy mobile
 application ("Savy", "the App"). By using Savy, you agree to the practices
 described in this policy.
@@ -103,4 +103,4 @@ this page with an updated "Last updated" date.
 ## 11. Contact us
 
 If you have questions about this Privacy Policy or your data, contact us at:
-abderk3@gmail.com
+abousoft.dev@gmail.com
